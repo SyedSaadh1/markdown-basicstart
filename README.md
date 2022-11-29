@@ -50,3 +50,13 @@ VALUES
     (7, "Ramesh",      26,  "BackEnd-Developer",   "UK",       7000),
     (8, "Apsar",       26,  "FullStack_Developer", "India",    5000),
 ```
+
+Table For Employees Data
+###Employees Data
+| ID | NAME | AGE  | DESIGNATION | COUNTRY  |  SALARY  |
+| 1  | Raja | 23   | BackEnd     |  UK      |  3000    |
+| 2  |Pavan | 25   | FullStack   |  USA     |  5000    |
+| 3  |Zahid | 22   | BackEnd     |  INDIA   |  10000   |
+| 4  |Khaja | 25   | FullStack   |  JAPAN   |  8000    |
+| 5  |Rajesh| 25   | FullStack   |  UK      |  9000    |
+| 6  |Apsar | 26   | BackEnd     |  USA     |  7000    |
