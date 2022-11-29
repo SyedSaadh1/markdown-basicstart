@@ -54,6 +54,7 @@ VALUES
 Table For Employees Data
 ###Employees Data
 | ID | NAME | AGE  | DESIGNATION | COUNTRY  |  SALARY  |
+|--- |  --- | ---  |    ---      |  ---     |   ---    |
 | 1  | Raja | 23   | BackEnd     |  UK      |  3000    |
 | 2  |Pavan | 25   | FullStack   |  USA     |  5000    |
 | 3  |Zahid | 22   | BackEnd     |  INDIA   |  10000   |
